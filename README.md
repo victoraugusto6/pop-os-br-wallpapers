@@ -15,5 +15,5 @@ Link to Telegram: https://t.me/poposbrasil
 > Instruções:
 
 * Adicione o wallpaper dentro de <strong><i>/wallpapers/</i></strong>
-* Use o nome ```[tamanh]nome_imagem(username).extensão```.
+* Use o nome ```[tamanho]nome_imagem(username).extensão```.
 * Em ```wallpapers``` há um exemplo.
