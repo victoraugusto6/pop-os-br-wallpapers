@@ -8,7 +8,7 @@ Link to Telegram: https://t.me/poposbrasil
 
 * Add the wallpaper into <strong><i>/wallpapers/</i></strong>
 * Use name ```name_image(username).extension```.
-* In ```contrib``` there is an example.
+* In ```wallpapers``` there is an example.
 
 <br>
 
@@ -16,4 +16,4 @@ Link to Telegram: https://t.me/poposbrasil
 
 * Adicione o wallpaper dentro de <strong><i>/wallpapers/</i></strong>
 * Use o nome ```nome_imagem(username).extensão```.
-* Em ```contrib``` há um exemplo.
+* Em ```wallpapers``` há um exemplo.
